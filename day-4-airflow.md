@@ -1,5 +1,4 @@
-
-# [Day-4] Schedule an End-to-End Data Pipeline
+# [Day-4] Orchestrating Airflow and DBT
 
 
 ### Orchestrating Airflow and dbt with DockerOperator
